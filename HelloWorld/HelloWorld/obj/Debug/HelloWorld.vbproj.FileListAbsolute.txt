@@ -1,0 +1,11 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\In-Class Tutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
